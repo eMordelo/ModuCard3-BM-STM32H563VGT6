@@ -9,4 +9,5 @@
 	(lib (name "CH334P") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-symbols/CH334P.kicad_sym") (options "") (descr ""))
 	(lib (name "PESD5V0S2BT") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-symbols/PESD5V0S2BT.kicad_sym") (options "") (descr ""))
 	(lib (name "MX74700") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-symbols/MX74700.kicad_sym") (options "") (descr ""))
+	(lib (name "RT6365") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-symbols/RT6365.kicad_sym") (options "") (descr ""))
 )
