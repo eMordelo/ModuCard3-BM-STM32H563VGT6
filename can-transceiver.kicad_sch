@@ -5,11 +5,11 @@
 	(uuid "07dc2064-744f-479e-b1dc-ae1108dc5b1b")
 	(paper "A4")
 	(title_block
-		(title "ModuCard BM STM32H562VGT6")
+		(title "ModuCard 3 BM STM32H562VGT6")
 		(date "2025-04-18")
-		(rev "1.1.1")
+		(rev "1.2.1")
 		(company "KoNaR")
-		(comment 1 "Base project authors: Dominik Pluta, Artem Horiunov")
+		(comment 1 "Base project authors: Dominik Pluta, Artem Horiunov, Maciej Chodowiec")
 		(comment 2 "Project author: <author>")
 	)
 	(lib_symbols
